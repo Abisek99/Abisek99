@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abisek99
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Angular, node.js, Mongodb
+- 🌱 I’m currently learning DotNet, node.js, Mongodb
 - 📫 How to reach me abisekmhrjn@gmail.com
 
 <!---
